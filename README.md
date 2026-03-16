@@ -135,12 +135,26 @@ To allow GoogleBot, block all Google IP addresses and then allow the GoogleBot a
 - IPv4 (merged): https://raw.githubusercontent.com/lord-alfred/ipranges/main/perplexity/ipv4_merged.txt
 
 ### DuckDuckBot
+
 - IPv4: https://raw.githubusercontent.com/lord-alfred/ipranges/main/duckduckbot/ipv4.txt
 - IPv4 (merged): https://raw.githubusercontent.com/lord-alfred/ipranges/main/duckduckbot/ipv4_merged.txt
 
 ### DuckAssistBot
+
 - IPv4: https://raw.githubusercontent.com/lord-alfred/ipranges/main/duckassistbot/ipv4.txt
 - IPv4 (merged): https://raw.githubusercontent.com/lord-alfred/ipranges/main/duckassistbot/ipv4_merged.txt
+
+### StatusCake
+
+- IPv4: https://raw.githubusercontent.com/lord-alfred/ipranges/main/statuscake/ipv4.txt
+- IPv4 (merged): https://raw.githubusercontent.com/lord-alfred/ipranges/main/statuscake/ipv4_merged.txt
+
+### Pingdom
+
+- IPv4: https://raw.githubusercontent.com/lord-alfred/ipranges/main/pingdom/ipv4.txt
+- IPv4 (merged): https://raw.githubusercontent.com/lord-alfred/ipranges/main/pingdom/ipv4_merged.txt
+- IPv6: https://raw.githubusercontent.com/lord-alfred/ipranges/main/pingdom/ipv6.txt
+- IPv6 (merged): https://raw.githubusercontent.com/lord-alfred/ipranges/main/pingdom/ipv6_merged.txt
 
 ## All-In-One IPs
 
